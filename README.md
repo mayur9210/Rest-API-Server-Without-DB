@@ -1,7 +1,7 @@
 Rest API Server Without Database
 =========
 
-https://rest.now.sh/
+https://rest.now.sh
 
 Rest API Server Without Database, Data stored to files. No database requried
 
